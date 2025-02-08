@@ -1,4 +1,7 @@
 A sample command-line application with an entry test point in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
+add here teststtsts
 
-added a  new  line fot main branch
+
+add a file for test
+
